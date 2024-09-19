@@ -3,3 +3,6 @@ env
 tmp
 output
 *.csv
+
+# nodejs
+node_modules

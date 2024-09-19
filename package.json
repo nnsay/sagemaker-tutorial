@@ -1,0 +1,16 @@
+{
+  "name": "sagemaker-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "danfojs-node": "^1.1.2",
+    "data-forge": "^1.10.2",
+    "data-forge-fs": "^0.0.9"
+  }
+}
